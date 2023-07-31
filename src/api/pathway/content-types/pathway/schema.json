@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pathways",
+  "info": {
+    "singularName": "pathway",
+    "pluralName": "pathways",
+    "displayName": "Pathway",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "path": {
+      "displayName": "pathway",
+      "type": "component",
+      "repeatable": true,
+      "component": "pathway.pathway"
+    },
+    "uid": {
+      "type": "uid"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

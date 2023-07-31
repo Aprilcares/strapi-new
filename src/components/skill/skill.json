@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_skill_skills",
+  "info": {
+    "displayName": "Assessment",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "activities": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::activity.activity"
+    },
+    "rewards": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::reward.reward"
+    }
+  }
+}

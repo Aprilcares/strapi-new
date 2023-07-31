@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tipcards",
+  "info": {
+    "singularName": "tipcard",
+    "pluralName": "tipcards",
+    "displayName": "tipcard"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "asset": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_skill_activities",
+  "info": {
+    "displayName": "Activity"
+  },
+  "options": {},
+  "attributes": {
+    "activities": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::activity.activity"
+    }
+  }
+}

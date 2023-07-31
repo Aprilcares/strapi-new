@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_activity_tally_activities",
+  "info": {
+    "displayName": "Tally Activity"
+  },
+  "options": {},
+  "attributes": {
+    "tallyURL": {
+      "type": "string"
+    }
+  }
+}

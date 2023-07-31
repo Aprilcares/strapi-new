@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "segments",
+  "info": {
+    "singularName": "segment",
+    "pluralName": "segments",
+    "displayName": "ActivitySegment",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "Learning Activity",
+        "Warm up cool down",
+        "Toggle small concept"
+      ]
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

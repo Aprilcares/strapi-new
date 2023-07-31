@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_activity_slides_wrapper",
+  "info": {
+    "displayName": "Slides Wrapper"
+  },
+  "options": {},
+  "attributes": {
+    "ActivitySlide": {
+      "displayName": "slide",
+      "type": "component",
+      "repeatable": true,
+      "component": "activity.slide"
+    }
+  }
+}

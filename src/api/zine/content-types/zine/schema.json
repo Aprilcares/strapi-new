@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "zines",
+  "info": {
+    "singularName": "zine",
+    "pluralName": "zines",
+    "displayName": "zine"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "asset": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
