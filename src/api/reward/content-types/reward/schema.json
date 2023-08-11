@@ -40,7 +40,8 @@
       "enum": [
         "asksowmya",
         "forum",
-        "unlockforum"
+        "unlockforum",
+        "asksowmyafinal"
       ]
     }
   }
