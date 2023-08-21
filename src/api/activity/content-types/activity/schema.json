@@ -224,6 +224,25 @@
         "activity.slides",
         "activity.tally-activity"
       ]
+    },
+    "Types": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "customField",
+      "options": [
+        "Assess",
+        "Read",
+        "Watch",
+        "Listen",
+        "Write",
+        "Question",
+        "Create"
+      ],
+      "required": false,
+      "customField": "plugin::multi-select.multi-select"
     }
   }
 }

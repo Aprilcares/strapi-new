@@ -9106,6 +9106,11 @@ strapi-plugin-import-export-entries@^1.6.9:
     node-fetch "2.6.9"
     react-singleton-hook "3.3.0"
 
+strapi-plugin-multi-select@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-multi-select/-/strapi-plugin-multi-select-1.2.2.tgz#eda123de6c6c6ec7346d17c1d63ce082a66db97e"
+  integrity sha512-D10hSUzFn7TU3fwH7SUn4/2dsL/JtSgyLLz7S8ozBQbK+GPjOJU264h6lpGppURkxwdXbihJvGzutZlM0DzFVQ==
+
 strapi-plugin-populate-deep@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/strapi-plugin-populate-deep/-/strapi-plugin-populate-deep-2.0.0.tgz#dd558eaef2fe47583a63536964b46a945e93f555"
