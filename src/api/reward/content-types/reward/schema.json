@@ -39,7 +39,7 @@
       "type": "enumeration",
       "enum": [
         "asksowmya",
-        "forum",
+        "community",
         "unlockforum",
         "asksowmyafinal"
       ]
