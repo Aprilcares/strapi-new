@@ -20,7 +20,7 @@
     "koa": "^2",
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
-    "pg": "8.11.1",
+    "pg": "8.11.3",
     "strapi-plugin-import-export-entries": "^1.6.9",
     "strapi-plugin-multi-select": "^1.2.2",
     "strapi-plugin-populate-deep": "^2.0.0",
