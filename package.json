@@ -21,7 +21,7 @@
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
     "pg": "8.11.1",
-    "strapi-plugin-import-export-entries": "^1.21.1",
+    "strapi-plugin-import-export-entries": "1.21.1",
     "strapi-plugin-multi-select": "^1.2.2",
     "strapi-plugin-populate-deep": "^3.0.0",
     "strapi-provider-upload-supabase": "^1.0.0",
@@ -35,7 +35,7 @@
     "uuid": "35d7a084-3088-4d0b-869e-f503693ee8e5"
   },
   "engines": {
-    "node": ">=16.x.x",
+    "node": ">=18.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
