@@ -111,6 +111,14 @@
       "relation": "oneToMany",
       "target": "api::activity.activity",
       "mappedBy": "skill"
+    },
+    "note": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
     }
   }
 }
